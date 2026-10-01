@@ -1,18 +1,13 @@
 <h1 align="center">42 Cursus Archive</h1>
-<p align="center">
-  Index of my 42 Lausanne projects · <a href="https://github.com/andyst-dev">my profile</a>
-</p>
 
 <table align="center">
   <tr>
-    <td><b>readme.txt</b></td>
+    <td><b>info.txt</b></td>
   </tr>
   <tr>
     <td>
-      Every project here was built during the 42 Lausanne cursus and each one has its own repository with its own
-      README.<br><br>
-      webserv, inception and ft_transcendence are also presented on my profile. The rest of the cursus is indexed
-      below, in the order I went through it.
+      Projects completed during the 42 Lausanne Common Core, in curriculum order.<br>
+      From C, Unix and algorithms to C++, networking, containers and full-stack development.
     </td>
   </tr>
 </table>
@@ -21,7 +16,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="2"><b>~/42_cursus</b></td>
+    <td colspan="2"><b>~/projects-42</b></td>
   </tr>
   <tr>
     <td width="56" align="center"><img src="assets/win98/libft.png" width="32" alt="libft-42 icon"></td>
